@@ -1,0 +1,7 @@
+bestbuy\serenity\project\bestbuyinfo\ProductSteps.class
+bestbuy\serenity\project\utils\PropertyReader.class
+bestbuy\serenity\project\App.class
+bestbuy\serenity\project\constants\EndPoints.class
+bestbuy\serenity\project\model\ProductsPojo.class
+bestbuy\serenity\project\constants\Path.class
+bestbuy\serenity\project\utils\TestUtils.class
